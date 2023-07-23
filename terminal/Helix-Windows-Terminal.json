@@ -1,0 +1,23 @@
+{
+    "background": "#3b224c",
+    "black": "#281733",
+    "blue": "#A4A0E8",
+    "brightBlack": "#5A5977",
+    "brightBlue": "#A4A0E8",
+    "brightCyan": "#ECCDBA",
+    "brightGreen": "#9FF28F",
+    "brightPurple": "#DBBFEF",
+    "brightRed": "#F47868",
+    "brightWhite": "#FFFFFF",
+    "brightYellow": "#FFCD1C",
+    "cursorColor": "#5A5977",
+    "cyan": "#ECCDBA",
+    "foreground": "#FFFFFF",
+    "green": "#9FF28F",
+    "name": "Helix",
+    "purple": "#DBBFEF",
+    "red": "#F47868",
+    "selectionBackground": "#540099",
+    "white": "#CCCCCC",
+    "yellow": "#FFCD1C"
+}

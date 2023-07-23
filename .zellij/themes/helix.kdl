@@ -1,0 +1,15 @@
+themes {
+	helix {
+        fg      "#FFFFFF"
+		bg      "#3B224C"
+		black   "#281733"
+		red     "#F47868"
+		green   "#9FF28F"
+		yellow  "#EBCB8B"
+		blue    "#A4A0E8"
+		magenta "#DBBFEF"
+		cyan    "#ECCDBA"
+		white   "#CCCCCC"
+		orange  "#EFBA5D"
+	}
+}
