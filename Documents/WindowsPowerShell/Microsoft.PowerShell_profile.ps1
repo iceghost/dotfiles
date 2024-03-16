@@ -8,5 +8,3 @@ function Call-Eza {
     eza -lhF $args
 }
 Set-Alias -Name ls -Value Call-Eza -Option AllScope
-
-$env:SHELL = "powershell"
