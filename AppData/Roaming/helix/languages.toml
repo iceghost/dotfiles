@@ -1,0 +1,2 @@
+[language-server]
+vscode-json-language-server = { command = "vscode-json-languageserver", args = ["--stdio"], config = { provideFormatter = true, json = { validate = { enable = true } } } }

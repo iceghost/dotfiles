@@ -1,0 +1,14 @@
+theme = "ayu_evolve"
+
+[editor]
+color-modes = true
+cursor-shape.insert = "bar"
+cursor-shape.select = "underline"
+undercurl = true
+
+[editor.lsp]
+auto-signature-help = false
+display-messages = true
+
+[keys.insert]
+C-space = "signature_help"
